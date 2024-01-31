@@ -10,9 +10,9 @@
  
  After Storing, User Can Select Each Channel and see the Different Table's Created using Pandas Dataframe.
  
- User Migrate Each channel Data by clicking Migrate to Sql Button. Four Table was created and Datas of Channel, Playlist, Videos and Comments Table.
+ User Migrate Each channel Data by clicking Migrate to Sql Button. Four Table was created and Datas of Channel, Playlist, Videos and Comments are inserted in Tables.
  
- In Query's User Can Select Questions to get Answer in Tables, By using SQL Query shwoing Data's which user need to see.
+ In Query's User Can Select Questions to get Answer in Tables, By using SQL Query Shwoing Data's which user need to see.
 
 
 
