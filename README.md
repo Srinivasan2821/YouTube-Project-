@@ -6,7 +6,7 @@
 
  In this Project Youtube Data Harvesting and Warehousing, User can Input Channel ID's of Youtube Channels and Collecting Data's From Youtube By using API Key.
  
- Then Tranfer this Data to my Mongodb Data Base, and Stroing it as Four different Collections.
+ Then Tranfer this Data to Mongodb Data Base, and Stroing it as Four different Collections.
  
  After Storing, User Can Select Each Channel and see the Different Table's Created using Pandas Dataframe.
  
