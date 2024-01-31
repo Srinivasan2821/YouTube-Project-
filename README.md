@@ -12,7 +12,7 @@ Project Done By - Srinivasan P.
 
 Problem Statement:
 
- The problem statement is to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels. The application should have the following features:
+ The problem statement is to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels. The application should have the following features: /n
  Ability to input a YouTube channel ID and retrieve all the relevant data (Channel name, subscribers, total video count, playlist ID, video ID, likes, dislikes, comments of each video) using Google API.
  Option to store the data in a MongoDB database as a data lake.
  Ability to collect data for up to 10 different YouTube channels and store them in the data lake by clicking a button.
